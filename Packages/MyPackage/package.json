@@ -1,0 +1,10 @@
+{
+  "name": "com.baylsongames.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "This is a template for creating UPM packages",
+  "unity": "6000.3",
+  "author": {
+    "name": "Tyler Baylson"
+  }
+}
