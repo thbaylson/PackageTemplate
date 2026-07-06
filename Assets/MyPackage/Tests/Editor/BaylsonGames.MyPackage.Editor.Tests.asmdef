@@ -1,0 +1,14 @@
+{
+    "name": "BaylsonGames.MyPackage.Editor.Tests",
+    "rootNamespace": "BaylsonGames.MyPackage.Editor.Tests",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
