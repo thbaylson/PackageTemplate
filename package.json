@@ -1,5 +1,7 @@
 {
-	"name": "com.BaylsonGames.MyPackage",
+	// Comments are not allowed. Remove this comment as you update this file.
+	// Package name here MUST be all lowercase.
+	"name": "com.baylsongames.mypackage",
 	"version": "1.0.0",
 	"displayName": "Package Template",
 	"description": "This is a template for creating UPM packages",
