@@ -1,0 +1,20 @@
+{
+  "name": "com.baylsongames.analytics-helper",
+  "version": "1.0.0",
+  "displayName": "Baylson Games Analytics Helper",
+  "description": "Designer-friendly helpers for recording Unity Analytics custom events from ScriptableObject definitions.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.services.analytics": "6.3.0"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Event",
+      "description": "Shows how to trigger a configured analytics event from script.",
+      "path": "Samples~/Basic Event"
+    }
+  ],
+  "author": {
+    "name": "Tyler Baylson"
+  }
+}

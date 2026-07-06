@@ -1,0 +1,18 @@
+{
+    "name": "BaylsonGames.Analytics.Editor",
+    "rootNamespace": "BaylsonGames.Analytics.Editor",
+    "references": [
+        "BaylsonGames.Analytics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

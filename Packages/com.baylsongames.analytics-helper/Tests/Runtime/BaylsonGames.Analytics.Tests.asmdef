@@ -1,0 +1,19 @@
+{
+    "name": "BaylsonGames.Analytics.Tests",
+    "rootNamespace": "BaylsonGames.Analytics.Tests",
+    "references": [
+        "BaylsonGames.Analytics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "noEngineReferences": false
+}

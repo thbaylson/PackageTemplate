@@ -1,0 +1,22 @@
+{
+    "name": "BaylsonGames.Analytics.Editor.Tests",
+    "rootNamespace": "BaylsonGames.Analytics.Editor.Tests",
+    "references": [
+        "BaylsonGames.Analytics",
+        "BaylsonGames.Analytics.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "noEngineReferences": false
+}
